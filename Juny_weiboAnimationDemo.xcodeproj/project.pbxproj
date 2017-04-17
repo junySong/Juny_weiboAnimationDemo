@@ -16,6 +16,27 @@
 		11F76D961EA465D800F4FDE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11F76D941EA465D800F4FDE2 /* LaunchScreen.storyboard */; };
 		11F76DA11EA465D900F4FDE2 /* Juny_weiboAnimationDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11F76DA01EA465D900F4FDE2 /* Juny_weiboAnimationDemoTests.m */; };
 		11F76DAC1EA465DA00F4FDE2 /* Juny_weiboAnimationDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11F76DAB1EA465DA00F4FDE2 /* Juny_weiboAnimationDemoUITests.m */; };
+		11F76DBB1EA467CD00F4FDE2 /* MiddleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11F76DBA1EA467CD00F4FDE2 /* MiddleViewController.m */; };
+		11F76DD01EA46F1A00F4FDE2 /* chooser-button-input-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DBD1EA46F1A00F4FDE2 /* chooser-button-input-highlighted@2x.png */; };
+		11F76DD11EA46F1A00F4FDE2 /* chooser-button-input@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DBE1EA46F1A00F4FDE2 /* chooser-button-input@2x.png */; };
+		11F76DD21EA46F1A00F4FDE2 /* chooser-button-tab-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DBF1EA46F1A00F4FDE2 /* chooser-button-tab-highlighted@2x.png */; };
+		11F76DD31EA46F1A00F4FDE2 /* chooser-button-tab@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC01EA46F1A00F4FDE2 /* chooser-button-tab@2x.png */; };
+		11F76DD41EA46F1A00F4FDE2 /* chooser-moment-button-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC11EA46F1A00F4FDE2 /* chooser-moment-button-highlighted@2x.png */; };
+		11F76DD51EA46F1A00F4FDE2 /* chooser-moment-button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC21EA46F1A00F4FDE2 /* chooser-moment-button@2x.png */; };
+		11F76DD61EA46F1A00F4FDE2 /* chooser-moment-icon-camera-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC31EA46F1A00F4FDE2 /* chooser-moment-icon-camera-highlighted@2x.png */; };
+		11F76DD71EA46F1A00F4FDE2 /* chooser-moment-icon-camera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC41EA46F1A00F4FDE2 /* chooser-moment-icon-camera@2x.png */; };
+		11F76DD81EA46F1A00F4FDE2 /* chooser-moment-icon-music-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC51EA46F1A00F4FDE2 /* chooser-moment-icon-music-highlighted@2x.png */; };
+		11F76DD91EA46F1A00F4FDE2 /* chooser-moment-icon-music@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC61EA46F1A00F4FDE2 /* chooser-moment-icon-music@2x.png */; };
+		11F76DDA1EA46F1A00F4FDE2 /* chooser-moment-icon-place-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC71EA46F1A00F4FDE2 /* chooser-moment-icon-place-highlighted@2x.png */; };
+		11F76DDB1EA46F1A00F4FDE2 /* chooser-moment-icon-place@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC81EA46F1A00F4FDE2 /* chooser-moment-icon-place@2x.png */; };
+		11F76DDC1EA46F1A00F4FDE2 /* chooser-moment-icon-sleep-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DC91EA46F1A00F4FDE2 /* chooser-moment-icon-sleep-highlighted@2x.png */; };
+		11F76DDD1EA46F1A00F4FDE2 /* chooser-moment-icon-sleep@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DCA1EA46F1A00F4FDE2 /* chooser-moment-icon-sleep@2x.png */; };
+		11F76DDE1EA46F1A00F4FDE2 /* chooser-moment-icon-thought-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DCB1EA46F1A00F4FDE2 /* chooser-moment-icon-thought-highlighted@2x.png */; };
+		11F76DDF1EA46F1A00F4FDE2 /* chooser-moment-icon-thought@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DCC1EA46F1A00F4FDE2 /* chooser-moment-icon-thought@2x.png */; };
+		11F76DE01EA46F1A00F4FDE2 /* Like-Blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DCD1EA46F1A00F4FDE2 /* Like-Blue@2x.png */; };
+		11F76DE11EA46F1A00F4FDE2 /* Like@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DCE1EA46F1A00F4FDE2 /* Like@2x.png */; };
+		11F76DE21EA46F1A00F4FDE2 /* Sparkle.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F76DCF1EA46F1A00F4FDE2 /* Sparkle.png */; };
+		11F76DE81EA485C100F4FDE2 /* JSTabbarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11F76DE71EA485C100F4FDE2 /* JSTabbarViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +75,29 @@
 		11F76DA71EA465DA00F4FDE2 /* Juny_weiboAnimationDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Juny_weiboAnimationDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11F76DAB1EA465DA00F4FDE2 /* Juny_weiboAnimationDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Juny_weiboAnimationDemoUITests.m; sourceTree = "<group>"; };
 		11F76DAD1EA465DB00F4FDE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11F76DB91EA467CD00F4FDE2 /* MiddleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MiddleViewController.h; sourceTree = "<group>"; };
+		11F76DBA1EA467CD00F4FDE2 /* MiddleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MiddleViewController.m; sourceTree = "<group>"; };
+		11F76DBD1EA46F1A00F4FDE2 /* chooser-button-input-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-button-input-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DBE1EA46F1A00F4FDE2 /* chooser-button-input@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-button-input@2x.png"; sourceTree = "<group>"; };
+		11F76DBF1EA46F1A00F4FDE2 /* chooser-button-tab-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-button-tab-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DC01EA46F1A00F4FDE2 /* chooser-button-tab@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-button-tab@2x.png"; sourceTree = "<group>"; };
+		11F76DC11EA46F1A00F4FDE2 /* chooser-moment-button-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-button-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DC21EA46F1A00F4FDE2 /* chooser-moment-button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-button@2x.png"; sourceTree = "<group>"; };
+		11F76DC31EA46F1A00F4FDE2 /* chooser-moment-icon-camera-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-camera-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DC41EA46F1A00F4FDE2 /* chooser-moment-icon-camera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-camera@2x.png"; sourceTree = "<group>"; };
+		11F76DC51EA46F1A00F4FDE2 /* chooser-moment-icon-music-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-music-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DC61EA46F1A00F4FDE2 /* chooser-moment-icon-music@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-music@2x.png"; sourceTree = "<group>"; };
+		11F76DC71EA46F1A00F4FDE2 /* chooser-moment-icon-place-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-place-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DC81EA46F1A00F4FDE2 /* chooser-moment-icon-place@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-place@2x.png"; sourceTree = "<group>"; };
+		11F76DC91EA46F1A00F4FDE2 /* chooser-moment-icon-sleep-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-sleep-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DCA1EA46F1A00F4FDE2 /* chooser-moment-icon-sleep@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-sleep@2x.png"; sourceTree = "<group>"; };
+		11F76DCB1EA46F1A00F4FDE2 /* chooser-moment-icon-thought-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-thought-highlighted@2x.png"; sourceTree = "<group>"; };
+		11F76DCC1EA46F1A00F4FDE2 /* chooser-moment-icon-thought@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-moment-icon-thought@2x.png"; sourceTree = "<group>"; };
+		11F76DCD1EA46F1A00F4FDE2 /* Like-Blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Like-Blue@2x.png"; sourceTree = "<group>"; };
+		11F76DCE1EA46F1A00F4FDE2 /* Like@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Like@2x.png"; sourceTree = "<group>"; };
+		11F76DCF1EA46F1A00F4FDE2 /* Sparkle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sparkle.png; sourceTree = "<group>"; };
+		11F76DE61EA485C100F4FDE2 /* JSTabbarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSTabbarViewController.h; sourceTree = "<group>"; };
+		11F76DE71EA485C100F4FDE2 /* JSTabbarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSTabbarViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +154,10 @@
 				11F76D8A1EA465D700F4FDE2 /* FirstViewController.m */,
 				11F76D8C1EA465D700F4FDE2 /* SecondViewController.h */,
 				11F76D8D1EA465D700F4FDE2 /* SecondViewController.m */,
+				11F76DB91EA467CD00F4FDE2 /* MiddleViewController.h */,
+				11F76DBA1EA467CD00F4FDE2 /* MiddleViewController.m */,
+				11F76DE61EA485C100F4FDE2 /* JSTabbarViewController.h */,
+				11F76DE71EA485C100F4FDE2 /* JSTabbarViewController.m */,
 				11F76D8F1EA465D700F4FDE2 /* Main.storyboard */,
 				11F76D921EA465D800F4FDE2 /* Assets.xcassets */,
 				11F76D941EA465D800F4FDE2 /* LaunchScreen.storyboard */,
@@ -122,6 +170,7 @@
 		11F76D831EA465CF00F4FDE2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				11F76DBC1EA46F1A00F4FDE2 /* image */,
 				11F76D841EA465CF00F4FDE2 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -143,6 +192,32 @@
 				11F76DAD1EA465DB00F4FDE2 /* Info.plist */,
 			);
 			path = Juny_weiboAnimationDemoUITests;
+			sourceTree = "<group>";
+		};
+		11F76DBC1EA46F1A00F4FDE2 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				11F76DBD1EA46F1A00F4FDE2 /* chooser-button-input-highlighted@2x.png */,
+				11F76DBE1EA46F1A00F4FDE2 /* chooser-button-input@2x.png */,
+				11F76DBF1EA46F1A00F4FDE2 /* chooser-button-tab-highlighted@2x.png */,
+				11F76DC01EA46F1A00F4FDE2 /* chooser-button-tab@2x.png */,
+				11F76DC11EA46F1A00F4FDE2 /* chooser-moment-button-highlighted@2x.png */,
+				11F76DC21EA46F1A00F4FDE2 /* chooser-moment-button@2x.png */,
+				11F76DC31EA46F1A00F4FDE2 /* chooser-moment-icon-camera-highlighted@2x.png */,
+				11F76DC41EA46F1A00F4FDE2 /* chooser-moment-icon-camera@2x.png */,
+				11F76DC51EA46F1A00F4FDE2 /* chooser-moment-icon-music-highlighted@2x.png */,
+				11F76DC61EA46F1A00F4FDE2 /* chooser-moment-icon-music@2x.png */,
+				11F76DC71EA46F1A00F4FDE2 /* chooser-moment-icon-place-highlighted@2x.png */,
+				11F76DC81EA46F1A00F4FDE2 /* chooser-moment-icon-place@2x.png */,
+				11F76DC91EA46F1A00F4FDE2 /* chooser-moment-icon-sleep-highlighted@2x.png */,
+				11F76DCA1EA46F1A00F4FDE2 /* chooser-moment-icon-sleep@2x.png */,
+				11F76DCB1EA46F1A00F4FDE2 /* chooser-moment-icon-thought-highlighted@2x.png */,
+				11F76DCC1EA46F1A00F4FDE2 /* chooser-moment-icon-thought@2x.png */,
+				11F76DCD1EA46F1A00F4FDE2 /* Like-Blue@2x.png */,
+				11F76DCE1EA46F1A00F4FDE2 /* Like@2x.png */,
+				11F76DCF1EA46F1A00F4FDE2 /* Sparkle.png */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -254,9 +329,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11F76DDB1EA46F1A00F4FDE2 /* chooser-moment-icon-place@2x.png in Resources */,
+				11F76DDE1EA46F1A00F4FDE2 /* chooser-moment-icon-thought-highlighted@2x.png in Resources */,
+				11F76DD21EA46F1A00F4FDE2 /* chooser-button-tab-highlighted@2x.png in Resources */,
 				11F76D961EA465D800F4FDE2 /* LaunchScreen.storyboard in Resources */,
+				11F76DDC1EA46F1A00F4FDE2 /* chooser-moment-icon-sleep-highlighted@2x.png in Resources */,
 				11F76D931EA465D800F4FDE2 /* Assets.xcassets in Resources */,
+				11F76DD81EA46F1A00F4FDE2 /* chooser-moment-icon-music-highlighted@2x.png in Resources */,
+				11F76DD51EA46F1A00F4FDE2 /* chooser-moment-button@2x.png in Resources */,
+				11F76DD61EA46F1A00F4FDE2 /* chooser-moment-icon-camera-highlighted@2x.png in Resources */,
 				11F76D911EA465D700F4FDE2 /* Main.storyboard in Resources */,
+				11F76DE21EA46F1A00F4FDE2 /* Sparkle.png in Resources */,
+				11F76DDF1EA46F1A00F4FDE2 /* chooser-moment-icon-thought@2x.png in Resources */,
+				11F76DD41EA46F1A00F4FDE2 /* chooser-moment-button-highlighted@2x.png in Resources */,
+				11F76DDD1EA46F1A00F4FDE2 /* chooser-moment-icon-sleep@2x.png in Resources */,
+				11F76DD71EA46F1A00F4FDE2 /* chooser-moment-icon-camera@2x.png in Resources */,
+				11F76DD11EA46F1A00F4FDE2 /* chooser-button-input@2x.png in Resources */,
+				11F76DE11EA46F1A00F4FDE2 /* Like@2x.png in Resources */,
+				11F76DE01EA46F1A00F4FDE2 /* Like-Blue@2x.png in Resources */,
+				11F76DD31EA46F1A00F4FDE2 /* chooser-button-tab@2x.png in Resources */,
+				11F76DD01EA46F1A00F4FDE2 /* chooser-button-input-highlighted@2x.png in Resources */,
+				11F76DD91EA46F1A00F4FDE2 /* chooser-moment-icon-music@2x.png in Resources */,
+				11F76DDA1EA46F1A00F4FDE2 /* chooser-moment-icon-place-highlighted@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +378,9 @@
 				11F76D8E1EA465D700F4FDE2 /* SecondViewController.m in Sources */,
 				11F76D881EA465CF00F4FDE2 /* AppDelegate.m in Sources */,
 				11F76D8B1EA465D700F4FDE2 /* FirstViewController.m in Sources */,
+				11F76DE81EA485C100F4FDE2 /* JSTabbarViewController.m in Sources */,
 				11F76D851EA465CF00F4FDE2 /* main.m in Sources */,
+				11F76DBB1EA467CD00F4FDE2 /* MiddleViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +533,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = PA2V7TLZSR;
 				INFOPLIST_FILE = Juny_weiboAnimationDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Juny-weiboAnimationDemo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -449,6 +546,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = PA2V7TLZSR;
 				INFOPLIST_FILE = Juny_weiboAnimationDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Juny-weiboAnimationDemo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
